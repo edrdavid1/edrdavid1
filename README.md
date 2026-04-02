@@ -23,3 +23,9 @@
 
 > "Just another day of catching bugs and drinking coffee."
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nodejs,git,github,vscode" />
+  </a>
+</p>
+
